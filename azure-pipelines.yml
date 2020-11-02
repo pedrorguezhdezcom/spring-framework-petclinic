@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'ae2e4f7b-5212-4c86-9ef3-412bb86526c0'
   
   # Web app name
-  webAppName: 'pipeline-webapp-test'
+  webAppName: 'my-webapp-deploy-test'
 
   # Environment name
   environmentName: 'pipeline-webapp-test'
